@@ -1,0 +1,2 @@
+Prefix plugins/KMM/example/
+Plugin KMM inputfile 8mertest.txt outputfile 8mertest.bestmatches.txt
