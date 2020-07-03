@@ -2,7 +2,7 @@
 # Language: C++
 # Input: TXT (list of input values)
 # Output: TXT (list of best scoring sequences)
-# Tested with: PluMA 1.0, g++ 4.4 
+# Tested with: PluMA 1.1, GCC 4.8.4
 
 PluMA plugin that runs k-Markov Models (kMMs) to find the best match over
 a set of metagenomics sequence data, for each of a given set of target sequences.
